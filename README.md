@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oriavnicode101
-- 👀 I’m interested in learning from ohers and sharing my projects in order to improve.
+- 👀 I’m interested in learning from others and sharing my projects in order to improve.
 - 🌱 I’m currently learning software engineering in college.
 - 💞️ I’m looking to collaborate on fun projects for a learning experience.
 - 📫 You can reach me by emailing me on ori.avni.code@gmail.com
